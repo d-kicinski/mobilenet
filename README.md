@@ -1,0 +1,3 @@
+# MobileNet 
+
+Drunk driven development is a thing. I was drunk and I wanted to make a neural network. I made a neural network. It's a mobile net. It's a mobile net that can be trained on a mobile device. It's a mobile net that can be trained on a mobile device that can be trained on a mobile device. It's a mobile net that can be trained on a mobile device that can be trained on a mobile device that can be trained on a mobile device. It's a mobile net that can be trained on a mobile device that can be trained on a mobile device that can be trained on a mobile device that can be trained on a mobile device. It's a mobile net that can be trained on a mobile device. 
